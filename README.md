@@ -1,4 +1,4 @@
-# Cancer-Subset-Predictor
+# cancer-subtype-ml-predictor
 
 This project aims to develop a machine learning pipeline for predicting cancer subtypes based on gene expression data in the form of an RNAseq counts matrix. It includes [data preprocessing](https://github.com/StevenN2021/Cancer-Subset-Predictor/blob/main/notebooks/preprocess.ipynb), [exploratory data analysis](https://github.com/StevenN2021/Cancer-Subset-Predictor/blob/main/notebooks/eda.ipynb#:~:text=eda.-,ipynb,-preprocess.ipynb), and [model training + evaluation](https://github.com/StevenN2021/Cancer-Subset-Predictor/tree/main/notebooks#:~:text=2%20minutes%20ago-,model_train.ipynb,-model%20trained%20%2B%20eval) using the random forest classifier. 
 
